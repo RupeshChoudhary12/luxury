@@ -1,0 +1,28 @@
+.room{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.moost h5{
+    font-size: 20px;
+    border-left: 2px solid black;
+    padding: 5px;
+}
+.moost h1{
+    font-weight: 200;
+}
+
+.moost button{
+    height: 50px;
+    width: 400px;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.marc  img {
+    margin-top: 20px;
+    height: 550px;
+}

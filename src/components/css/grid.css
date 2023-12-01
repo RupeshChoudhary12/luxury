@@ -1,0 +1,125 @@
+.second{
+    width: 100%;
+    height: 70vh;
+    padding: 50px;
+
+}
+.second h1 {
+    color: #000;
+    font-weight: 200;
+    font-size: 50px;
+    text-align: center;
+    font: bold;
+}
+.box{
+    display: flex;
+    padding: 50px;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.a h4:hover{
+    color: #fff;
+    background-color: black;
+    text-align: center;
+    height: 100%;
+    display: flex;
+    opacity: 1;
+    align-items: center;
+    transform: scaleY(0.5s);
+
+    
+}
+.b h4:hover{
+    color: #fff;
+    opacity: 1;
+    background-color: black;
+    text-align: center;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    
+}
+.c h4:hover{
+    color: #fff;
+    opacity: 1;
+    background-color: black;
+    text-align: center;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    
+}
+.d h4:hover{
+    color: #fff;
+    opacity: 1;
+    background-color: black;
+    text-align: center;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    
+}
+.e h4:hover{
+    color: #fff;
+    opacity: 1;
+    background-color: black;
+    text-align: center;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    
+}
+.a{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    border: 1px solid black;
+    background-position: center;
+    background-size: cover;
+    background-image: url(/src/image/363290092_145714891861691_5020107832691037946_nfull.jpg);
+}
+.box h4 {
+    opacity: 0;
+}
+
+.b{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    background-position: center;
+    background-image: url(/src/image/363294527_673115270858011_3397150605391482902_nfull.jpg);
+    background-size: cover;
+}
+.c{
+    height: 200px;
+    width: 200px;
+    border: 1px solid bisque;
+    background-color: springgreen;
+    background-image: url(/src/image/363910425_6381738891932966_1557846532449208989_nfull.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.d{
+    height: 200px;
+    width: 200px;
+    background-color: sienna;
+    background-position: center;
+    background-image:url(/src/image/372858001_676413354412389_2996479553878288083_nfull.jpg);
+    background-size: cover;
+}
+.e{
+    
+    height: 200px;
+    width: 200px;
+    background-color: rosybrown;
+    background-image: url(/src/image/363290092_145714891861691_5020107832691037946_nfull.jpg);
+    background-position: center;
+    background-size: cover;
+}

@@ -1,0 +1,41 @@
+.logo{
+    height: 50px;
+    margin: 10px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 20px;
+}
+#icon{
+   margin-left: 35%;
+
+ 
+}
+.container-fluid{
+    position: sticky;
+}
+
+.nav span{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav h1 {
+    height: 60px;
+    width: 100%;
+    background-color: #000;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    padding: 20px;
+
+}
+
+.navbar{
+    position: relative;
+}

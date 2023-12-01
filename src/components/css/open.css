@@ -1,0 +1,29 @@
+.open {
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-image: url(/src/image/Interior_Design_Materials.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.of{
+    height: 70%;
+    width: 50%;
+}
+.of p{
+    font-size: 30px;
+}
+.of h1{
+    font-size: 70px;
+    font-weight: 100;
+} 
+.of a{
+    padding: 20px;
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 20px;
+}

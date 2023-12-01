@@ -1,0 +1,14 @@
+#bar {
+    margin-left: 35%;
+    
+}
+#bar p{
+    font-size: 15px;
+}
+#bar h6{
+    font-size: 15px;
+    margin-left: 20%;
+}
+.flex {
+    height: 100px;
+}

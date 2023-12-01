@@ -1,0 +1,75 @@
+
+.maars{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 25px;
+    gap: 20px;
+
+}
+
+.one{
+    height: 350px;
+    width: 350px;
+    background-color: seagreen;
+    background-image: url(/src/image/372858001_676413354412389_2996479553878288083_nfull.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.till{
+    height: 40px;
+    margin-top: 400px;
+
+}
+.till h5{
+    text-align: center;
+    font-weight: 200;
+    font-size: 20px;
+}
+.till span {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+
+.two{
+    height: 350px;
+    width: 350px;
+    background-position: center;
+    background-image: url(/src/image/363290092_145714891861691_5020107832691037946_nfull.jpg);
+    background-size: cover;
+}
+.three{
+    height: 350px;
+    width: 350px;
+    background-color: rgb(23, 223, 220);
+    background-position: center;
+    background-size: cover;
+    background-image: url(/src/image/363910425_6381738891932966_1557846532449208989_nfull.jpg);
+}
+.four{
+    height: 350px;
+    width: 350px;
+    background-color: rgb(226, 168, 9);
+    background-image: url(/src/image/Haven-View.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.on{
+    text-align: center;
+    margin-top: 150px;
+    padding: 10px;
+}
+.on button{
+    height: 50px;
+    background-color: #0068A0;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #fff;
+}

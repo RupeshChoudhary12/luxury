@@ -1,0 +1,48 @@
+
+.footer{
+    height: 100vh;
+    padding: 50px;
+    width: 100%;
+    background-color: #333333;
+    color: #f4f6f1;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer ul{
+    list-style: none;
+    margin: 10px;
+}
+
+.term span input{
+    background-color: #333333;
+    border: none;
+    color: #fff;
+}
+.canvas {
+    display: none;
+}
+
+.term span a{
+    color: #f4f6f1;
+    font-size: 20px;
+    text-decoration: none;
+}
+.term h1{
+    border: 2px solid #f4f6f1;
+    margin-top: 10px;
+    
+}
+.term h6{
+    font-size: 20px;
+}
+.pan{
+    width: 300px;
+    height: 20px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 45px;
+}
